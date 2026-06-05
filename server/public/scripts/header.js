@@ -10,7 +10,7 @@ const headerTitle = document.createElement('h1')
 
 headerLeft.className = 'header-left'
 headerLogo.src = '/logo.png'
-headerTitle.textContent = 'UnEarthed'
+headerTitle.textContent = 'Little Weekends'
 
 const headerRight = document.createElement('div')
 const headerButton = document.createElement('button')
