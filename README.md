@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src="YOUR_GIF_LINK_HERE" title="Video Walkthrough" alt="Video Walkthrough" />
+<img src="https://gifyu.com/image/bI8ZR" title="Video Walkthrough" alt="Video Walkthrough" />
 
 GIF created with Kap
 
