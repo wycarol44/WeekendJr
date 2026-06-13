@@ -54,7 +54,7 @@ The Events table contains the following fields:
 
 Here's a walkthrough of implemented required features:
 
-[Add your GIF or video link here]
+<img src="assets/walkthrough.gif" title="Video Walkthrough" alt="Video Walkthrough" />
 
 GIF created with Kap
 
